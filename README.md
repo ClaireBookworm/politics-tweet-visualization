@@ -8,3 +8,7 @@ Of course, the United States had leagues of more politicians on twitter than any
 ![map](https://github.com/ClaireBookworm/politics-tweet-visualization/blob/main/position-world-map.png)
 
 Surprisingly, the second most was Germnay!
+
+## Color
+
+![color](https://github.com/ClaireBookworm/politics-tweet-visualization/blob/main/color-tweet-polit.png)
