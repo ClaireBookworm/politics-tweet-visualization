@@ -6,10 +6,10 @@ We all love politicians. And we especially love their tweets. So, why don't we a
 
 ## Position
 
-![map](https://github.com/ClaireBookworm/politics-tweet-visualization/blob/main/PART%20II-Creation/position-world-map.png)
+![map](https://github.com/ClaireBookworm/politics-tweet-visualization/blob/main/PART%20II-Creation/Images/position-world-map.png)
 
 > Of course, the United States had leagues of more politicians on twitter than any other country, with 2,366 in our dataset (with, of course, many more not in the dataset). So, I deleted the that datapoint so the scale was less skewed, which lead us to this graph! Surprisingly, the second most was Germnay!
 
 ## Color
 
-![color](https://github.com/ClaireBookworm/politics-tweet-visualization/blob/main/PART%20II-Creation/color-tweet-polit.png)
+![color](https://github.com/ClaireBookworm/politics-tweet-visualization/blob/main/PART%20II-Creation/Images/color-tweet-polit.png)
