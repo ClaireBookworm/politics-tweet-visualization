@@ -15,7 +15,7 @@ This is part 3 of this three part project, where we use the data set of another 
 >Visualization Using color to directly model the twitter's yearly revenu.
 
 ## **POSITION**
-(insert image here)
+![Position Graph](https://github.com/jhe2155/visual-variable/blob/main/Revenue%20vs.%20Year%20(1).png)
 
 ## **ORIENTATION**
 ![Revenue by year](https://github.com/jhe2155/visual-variable/blob/main/Twitter%20Revenue%20by%20Year.png)
