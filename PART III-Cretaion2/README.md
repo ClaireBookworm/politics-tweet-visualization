@@ -14,12 +14,11 @@ This is part 3 of this three part project, where we use the data set of another 
 ![Color Vision](https://github.com/ClaireBookworm/politics-tweet-visualization/blob/main/PART%20III-Cretaion2/Imgaes/Color.png)
 >Visualization Using color to directly model the twitter's yearly revenu.
 
-
 ## **POSITION**
 (insert image here)
 
 ## **ORIENTATION**
-(insert image here)
+![Revenue by year](https://github.com/jhe2155/visual-variable/blob/main/Twitter%20Revenue%20by%20Year.png)
 
 ## **SHAPE**
 (insert image here)
