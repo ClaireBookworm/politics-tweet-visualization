@@ -31,3 +31,7 @@ We all love politicians. And we especially love their tweets. So, why don't we a
 ## Color
 
 ![color](https://github.com/ClaireBookworm/politics-tweet-visualization/blob/main/PART%20II-Creation/Images/color-tweet-polit.png)
+
+## Shape 
+
+## Value
