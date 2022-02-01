@@ -22,16 +22,16 @@ Visualization Using Shape: [*Global Migration Map*](http://metrocosm.com/global-
 >Visualization Using Value: [*White Collar Crime Risk Zones*](https://whitecollar.thenewinquiry.com/#dr5ref6)
 
 ## **SIZE**
-![alt text](https://github.com/Brian-Masse/CSC630/blob/main/Group-task2/Visual%20Variable%20analysis/5f4e45474237bf22ac222087_together-2.jpg)
+![alt text](https://github.com/Brian-Masse/Visual-Variable-analysis/blob/main/Visual%20Variable%20analysis/5f4e45474237bf22ac222087_together-2.jpg)
 >Visualization Using Size: [*Mentioning Miles Davis*](https://pudding.cool/2017/03/miles/)
 
 
 ## **TEXTURE**
-![alt text](https://github.com/Brian-Masse/CSC630/blob/main/Group-task2/Visual%20Variable%20analysis/5f4e45474237bf22ac222087_together-3.jpg)
+![alt text](https://github.com/Brian-Masse/Visual-Variable-analysis/blob/main/Visual%20Variable%20analysis/5f4e45474237bf22ac222087_together-3.jpg)
 >Visualization Using Texture: [*Population Mountans*](https://pudding.cool/2018/12/3d-cities-story/)
 
 
 ## **ORIENTATION**
-![alt text](https://github.com/Brian-Masse/CSC630/blob/main/Group-task2/Visual%20Variable%20analysis/5f4e45474237bf22ac222087_together-1.jpg)
+![alt text](https://github.com/Brian-Masse/Visual-Variable-analysis/blob/main/Visual%20Variable%20analysis/5f4e45474237bf22ac222087_together-1.jpg)
 >Visualization Using orientation: [*Together, visualizing company heriarchy*](https://www.kirellbenzi.com/art/together)
 
